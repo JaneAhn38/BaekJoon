@@ -22,4 +22,3 @@ public class num2588 {
     }
 
 }
-Main
